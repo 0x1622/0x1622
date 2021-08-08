@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://twitter.com/Shriram2476" target="_blank">Shriram</a> <img
 src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" height="32" /></h1> 
 <div align="center">
-<img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">
+<div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   </div>
   <div align="center">
   <p><b>Myself Shriram Dhumal, Currently I am a student. I am a security researcher specializing in web application security and is always open for collaborating on projects and innovative open-source based ideas.</p></b>
