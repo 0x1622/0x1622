@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://twitter.com/Shriram2476" target="_blank">Shriram</a> <img
-src="http://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif" height="50" /></h1> 
+src="https://media2.giphy.com/media/iGYHARMv4DVk5d1Fh9/giphy.gif?cid=790b7611d073342720951ca87491de93451b68b7714db5e5&rid=giphy.gif&ct=g" height="50" /></h1> 
 <div align="center">
   <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611512832e4d0e7520c79617a3ca003d663beb98bae&rid=giphy.gif&ct=g">
   <div align="center">
