@@ -4,7 +4,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
   </div>
   <div align="center">
-  <p>Myself Shriram Dhumal, Currently I am a student. I am a security researcher specializing in web application security and is always open for collaborating on projects and innovative open-source based ideas.</p>
+  <p><b>Myself Shriram Dhumal, Currently I am a student. I am a security researcher specializing in web application security and is always open for collaborating on projects and innovative open-source based ideas.</p></b>
   
   <p><b>Connect with me through:</b></p>
   
