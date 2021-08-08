@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://twitter.com/Shriram2476" target="_blank">Shriram</a> <img
 src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" height="32" /></h1> 
 <div align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+  <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611512832e4d0e7520c79617a3ca003d663beb98bae&rid=giphy.gif&ct=g">
   <div align="center">
   <p><b>Myself Shriram Dhumal, Currently I am a student. I am a security researcher specializing in web application security and is always open for collaborating on projects and innovative open-source based ideas.</p></b>
   
