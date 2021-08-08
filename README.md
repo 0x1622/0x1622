@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://twitter.com/Shriram2476" target="_blank">Shriram</a> <img
-src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1> 
+src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" height="32" /></h1> 
 <div align="center">
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
   </div>
