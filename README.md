@@ -15,8 +15,8 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 
 <h1>Technologies</h1>
 
-<img height="30" src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg">
-<img height="30" src="https://venturebeat.com/wp-content/uploads/2018/09/python3.jpg?resize=1200%2C600&strip=all">
+<img height="46" src="https://startertutorials.com/ajwt/examples/2014/html/html.jpg">
+<img height="46" src="https://venturebeat.com/wp-content/uploads/2018/09/python3.jpg?resize=1200%2C600&strip=all">
 
 
 <br><br>
