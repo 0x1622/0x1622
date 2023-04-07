@@ -26,7 +26,7 @@ src="https://media2.giphy.com/media/iGYHARMv4DVk5d1Fh9/giphy.gif?cid=790b7611d07
    <div align="center">
      Currently India's number 1 CTF team and 24th in the World!
    <div align="center">
-       CONTACT-<a href="mailto:Shriramdhumal2476@gmail.com">Email Me</a>
+       
   
  </p></b>
  
