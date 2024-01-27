@@ -3,7 +3,8 @@ src="https://media2.giphy.com/media/iGYHARMv4DVk5d1Fh9/giphy.gif?cid=790b7611d07
 <div align="center">
   <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611512832e4d0e7520c79617a3ca003d663beb98bae&rid=giphy.gif&ct=g" height="421">
   <div align="center">
-  <p><b>Myself Shriram Dhumal, Currently I am a student. I am a security researcher specializing in web application security and is always open for collaborating on projects and innovative open-source based ideas.</p></b>
+  <p><b>Myself Shriram Dhumal, I am currently a fresher pursuing a Computer Science degree at BITS Pilani Pilani Campus . I am a security researcher specializing in web application security and is always open for 
+   collaborating on projects and innovative open-source based ideas.</p></b>
   
   <p><b>Connect with me through:</b></p>
   
@@ -22,11 +23,4 @@ src="https://media2.giphy.com/media/iGYHARMv4DVk5d1Fh9/giphy.gif?cid=790b7611d07
 
 <br><br>
   
-<p><b><a href="https://ctftime.org/team/26569">CTF - DarkArmy </a>
-   <div align="center">
-     Currently India's number 1 CTF team and 24th in the World!
-   <div align="center">
-       
-  
- </p></b>
- 
+
