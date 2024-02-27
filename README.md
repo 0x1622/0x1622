@@ -13,12 +13,6 @@ src="https://media2.giphy.com/media/iGYHARMv4DVk5d1Fh9/giphy.gif?cid=790b7611d07
 
 <hr>
 
-<h1>Technologies</h1>
-
-<img height="46" src="https://startertutorials.com/ajwt/examples/2014/html/html.jpg">
-<img height="46" src="https://venturebeat.com/wp-content/uploads/2018/09/python3.jpg?resize=1200%2C600&strip=all">
-  <div align="center">
- Currently not learning any language due to time barrier
        
 
 <br><br>
