@@ -3,8 +3,7 @@ src="https://media2.giphy.com/media/iGYHARMv4DVk5d1Fh9/giphy.gif?cid=790b7611d07
 <div align="center">
   <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611512832e4d0e7520c79617a3ca003d663beb98bae&rid=giphy.gif&ct=g" height="421">
   <div align="center">
-  <p><b>Myself Shriram Dhumal, I am currently a sophomore pursuing a Computer Science degree at BITS Pilani Pilani Campus . I am a security researcher specializing in web application security and Digital Forensics and is always open for 
-   collaborating on projects and innovative open-source based ideas.</p></b>
+  <p><b>I'm Shriram Dhumal, a second-year Computer Science student at BITS Pilani, Pilani Campus. As a security researcher, I specialize in web application security and digital forensics. I am always eager to collaborate on projects and contribute to innovative, open-source initiatives. Feel free to reach out for potential collaborations or discussions on cybersecurity topics.</p></b>
   
   <p><b>Connect with me through:</b></p>
   
