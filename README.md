@@ -66,7 +66,7 @@ Most of my work sits around reverse engineering, malware analysis, digital foren
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=0x1622&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=0x1622&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS&base=1400)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:14532d&height=110&section=footer" width="100%" />
 
