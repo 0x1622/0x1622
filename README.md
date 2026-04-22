@@ -34,8 +34,7 @@ Most of my work sits around reverse engineering, malware analysis, digital foren
 | --- | --- |
 | [blogs.pwnedby.me](https://blogs.pwnedby.me/) | My research log for malware analysis, reverse engineering notes, and CTF writeups. |
 | [polymarket-wallet-analyzer](https://github.com/0x1622/polymarket-wallet-analyzer) | Python tooling for analyzing Polymarket wallets. |
-| [reco](https://github.com/0x1622/reco) | Recon automation using subdomain discovery and Nuclei for bug hunting workflows. |
-| [hackthebox](https://github.com/0x1622/hackthebox) | Reverse engineering challenge notes and solutions. |
+| `research.pwnedby.me` | Private project built to search cybersecurity research papers more efficiently. |
 
 ## Recent Writeups
 
