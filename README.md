@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:14532d&height=190&section=header&text=0x1622&fontSize=44&fontColor=f9e0e5&animation=fadeIn&fontAlignY=35&desc=Reverse%20Engineering%20%7C%20Malware%20Analysis%20%7C%20CTFs&descAlignY=56&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=7CFC98&center=true&vCenter=true&width=900&lines=BITS+Pilani+CS+2027;Team+L3ak;Reverse+Engineering+and+Digital+Forensics;Writing+at+blogs.pwnedby.me;Learning+binary+exploitation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=f9e0e5&center=true&vCenter=true&width=900&lines=BITS+Pilani+CS+2027;Team+L3ak;Reverse+Engineering+and+Digital+Forensics;Writing+at+blogs.pwnedby.me;Learning+binary+exploitation" alt="Typing SVG" />
 
 [![Blog](https://img.shields.io/badge/Blog-blogs.pwnedby.me-16a34a?style=for-the-badge&logo=ghost&logoColor=white)](https://blogs.pwnedby.me/)
 [![X](https://img.shields.io/badge/X-0x1622-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0x1622)
